@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="com_google_android_gms_fonts_certs">
+        <item>@array/base64_encoded_cert</item>
+    </array>
+
+    <array name="base64_encoded_cert">
+        <item>
+            MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv6fKqzP5H2+FJGZ2bU28/5qZjlz9iIq
+            EwVsb+8Q8Dj9+1iWvU4TzOCWy/b3N02xJvv8Ue7zVpL/c0OtFkkZzP3KN5Lh9J2Gb2qxz5dU2q7
+            wCe3LqTckvKNcMZMeKeHEENLdTTyprl3xRrUZxckS5DHNLgTQo0iE3x5rs8sDq2VGQjUBo6tM1f
+            w+LNEvtrFFRmd6/UC3/FuMgNmocNmCgJeiMDXda4HFm7TYoYoCEpz2sMddUX5XUksJZxK6XwIDAQAB
+        </item>
+    </array>
+</resources>
